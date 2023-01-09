@@ -103,6 +103,7 @@ lvim.builtin.treesitter.ensure_installed = {
   "regex",
   "ruby",
   "sql",
+  "scss",
   "swift",
   "sxhkdrc",
   "toml",
